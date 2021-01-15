@@ -67,3 +67,4 @@
 3. 将pull.yml里面的`mergeMethod: hardreset`修改为`mergeMethod: merge`保存。
 4. ENJOY！上游更改三小时左右就会自动发起同步。 
    
+zhi'o
